@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class ConnectionUtil {
     private static final String URL = "YOUR_URL";
-        private static final String USERNAME = "YOUR_USERNAME";
+    private static final String USERNAME = "YOUR_USERNAME";
     private static final String PASSWORD = "YOUR_PASSWORD";
     private static final String JDBC_DRIVER = "YOUR_JDBC_DRIVER";
 
