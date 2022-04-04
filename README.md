@@ -4,7 +4,7 @@
 Taxi Service is a simple Web application made for educational purposes. The application supports CRUD operations 
 with DB and proposes partly simulation of data management inside the taxi service.
 
-##Features:
+## Features:
 >* driver authorisation;
 >* creation/updation/deletion of car manufacturer;
 >* creation/updation/deletion of car;
