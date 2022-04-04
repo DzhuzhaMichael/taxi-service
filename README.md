@@ -35,7 +35,7 @@ with DB and proposes partly simulation of data management inside the taxi servic
 <strong>REMARK:</strong> for running the program you would need to install MySQL and Apache Tomcat version 9.0.XX.
 >1. Configure Apache Tomcat for your IDE;
 >2. Run SQL-script from <strong><em>resource/init_db.sql</em></strong> for creating database for the project;
->3. Configure <strong><em>/java/taxi/util/ConnectionUtil.java</em></strong> using your URL, USERNAME, PASSWORD, JDBC_DRIVER;
+>3. Configure <strong><em>java/taxi/util/ConnectionUtil.java</em></strong> using your URL, USERNAME, PASSWORD, JDBC_DRIVER;
 >4. Configure <strong><em>resources/log4j2.xml</em></strong> <strong>(line 7)</strong> using your ABSOLUTE_PATH to this project;
 >5. Run the program and create new driver, manufacturer, car;
 >6. Now you can use all the features.
